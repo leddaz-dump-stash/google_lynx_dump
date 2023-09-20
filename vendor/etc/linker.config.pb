@@ -1,0 +1,1 @@
+liblowi_wifihal.soliboemcrypto.so
